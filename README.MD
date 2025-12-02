@@ -1,13 +1,15 @@
 # Synapse AdminPainel
 
-O AdminPainel é um pacote em desenvolvimento criado para adicionar rapidamente um painel administrativo completo em projetos Laravel.
-Ele fornece gerenciamento de usuários, impersonation, dashboard e recursos essenciais para sistemas internos.
+![Visitor Badge](https://komarev.com/ghpvc/?username=teu-usuario&color=red&style=flat-square)
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/kazuha/adminpainel"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 
 ---
 
 ## Sobre o Projeto 
+O AdminPainel é um pacote em desenvolvimento criado para adicionar rapidamente um painel administrativo completo em projetos Laravel.
+Ele fornece gerenciamento de usuários, impersonation, dashboard e recursos essenciais para sistemas internos.
 
-Este pacote foi criado com foco em simplicidade, extensibilidade e integração rápida.
 
 ### funcionalidades
 
