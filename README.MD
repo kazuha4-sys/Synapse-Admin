@@ -89,7 +89,7 @@ Atualizações serão liberadas continuamente, e quem quiser pode contribuir env
 
 Qualquer ajuda é bem-vinda, como correções, novas features, melhorias no código, documentação ou finaceiramente.
 
-**PIX:**11957136678
+**PIX:** 11957136678
 **(Qualquer valor já ajuda a manter o projeto vivo)**
 
 ---
