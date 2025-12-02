@@ -1,6 +1,6 @@
 {
     "name": "kazuha/adminpainel",
-    "description": "Painel admin do Kazuha",
+    "description": "Pacote de painel administrativo para Laravel, oferecendo gerenciamento de usuários, edição de perfis, impersonate e estrutura própria de rotas, views e migrations. O projeto está em versão de desenvolvimento e receberá melhorias constantes. Ideal para testar, estudar ou expandir com novos módulos personalizados.",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "admin", "painel", "kazuha"],
