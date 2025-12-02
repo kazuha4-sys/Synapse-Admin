@@ -37,26 +37,26 @@ Ele fornece gerenciamento de usuários, impersonation, dashboard e recursos esse
 ## Instalação 
 Clone ou instale o pacote localmente no seu projeto Laravel:
 
-``bash 
+```bash 
     composer require kazuha/adminpainel
-``
+```
 
 Caso esteja usando o pacote local via path, configure no compose:
 
-``bash 
+```bash 
     "repositories": [
         {
             "type": "path",
             "url": "packages/kazuha/adminpainel"
         }
     ]
-``
+```
 
 Depois de um update no composer:
 
-``bash
+```bash
     composer update
-``
+```
 
 ---
 
@@ -64,9 +64,9 @@ Depois de um update no composer:
 
 Execute o comando de instalação:
 
-``bash
+```bash
     php artisan adminpainel:install
-``
+```
 
 Com esse comando você criar as migrations necessarias, cria o usuário de Adin inicial (usuario se senha serão exibidos no terminal onde você executou o comando de instalçao do admin)
 
