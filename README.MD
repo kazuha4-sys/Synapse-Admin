@@ -80,7 +80,10 @@ Este pacote está em versão de desenvolvimento.
 Algumas funcionalidades podem sofrer ajustes e receber melhorias futuras.
 Atualizações serão liberadas continuamente, e quem quiser pode contribuir enviando PRs.
 
-Qualquer ajuda é bem-vinda, como correções, novas features, melhorias no código ou na documentação.
+Qualquer ajuda é bem-vinda, como correções, novas features, melhorias no código, documentação ou finaceiramente.
+
+**PIX:**11957136678
+**(Qualquer valor já ajuda a manter o projeto vivo)
 
 ---
 

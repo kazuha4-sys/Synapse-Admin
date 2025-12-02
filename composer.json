@@ -4,6 +4,12 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "admin", "painel", "kazuha"],
+    "authors": [
+        {
+            "name": "kazuha/Kauan Da Silva Jarandilla Cybis",
+            "email": "00001138422976SP@al.educacao.sp.gov.br"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Kazuha\\AdminPainel\\": "src/"
