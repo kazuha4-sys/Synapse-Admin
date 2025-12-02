@@ -1,0 +1,19 @@
+{
+    "name": "kazuha/adminpainel",
+    "description": "Painel admin do Kazuha",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kazuha\\AdminPainel\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kazuha\\AdminPainel\\AdminPainelServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
